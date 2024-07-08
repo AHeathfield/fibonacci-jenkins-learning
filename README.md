@@ -1,2 +1,3 @@
 # fibonacci-jenkins-learning
+[![Build Status](http://localhost:8080/buildStatus/icon?job=fibonacci)](http://localhost:8080/job/fibonacci/)
 This is for Jenkins Essential Learning course.
